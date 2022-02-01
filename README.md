@@ -1,0 +1,2 @@
+# smaregi
+Smaregi API Client
